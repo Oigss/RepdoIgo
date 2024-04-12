@@ -1,0 +1,42 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "QuartoPrograma",
+            "request": "launch",
+            "mainClass": "QuartoPrograma",
+            "projectName": "PastadoIg_104aa81d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "PrimeiroPrograma",
+            "request": "launch",
+            "mainClass": "PrimeiroPrograma",
+            "projectName": "PastadoIg_104aa81d"
+        },
+        {
+            "type": "java",
+            "name": "SegundoPrograma",
+            "request": "launch",
+            "mainClass": "SegundoPrograma",
+            "projectName": "PastadoIg_104aa81d"
+        },
+        {
+            "type": "java",
+            "name": "TerceiroPrograma",
+            "request": "launch",
+            "mainClass": "TerceiroPrograma",
+            "projectName": "PastadoIg_104aa81d"
+        }
+    ]
+}
